@@ -12,7 +12,9 @@ export class AppComponent {
   getData(): string {
     console.log('Getting data...');
 
-    var a = 'fail';
+    let a = 'fail';
+    const b = 'b';
+    const c = 'c';
     return 'Data';
-  }
+  } 
 }
