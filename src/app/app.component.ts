@@ -11,7 +11,7 @@ export class AppComponent {
 
   getData(): string {
     console.log('Getting data...');
-
+const d = 'd';
     let a = 'fail';
     const b = 'b';
     const c = 'c';
