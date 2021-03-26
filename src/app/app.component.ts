@@ -13,8 +13,6 @@ export class AppComponent {
     console.log('Getting data...');
 
     var a = 'fail';
-    const b = 'asdf';
-    const c = 'asdf';
     return 'Data';
   }
 }
